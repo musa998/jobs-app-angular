@@ -1,0 +1,8 @@
+<h1 class="text-center text-primary mt-4 mb-4">Available jobs</h1>
+
+<div *ngIf="isOrganization" class="mb-3">
+  <a class="btn btn-secondary m-4"  routerLink="/jobs/create">Create new</a>
+</div>
+
+<app-job-list-view [jobs]="jobs"
+                    (jobDeleted)="onJobDelete($event)"></app-job-list-view>

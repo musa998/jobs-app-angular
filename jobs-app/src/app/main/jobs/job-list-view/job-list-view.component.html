@@ -1,0 +1,12 @@
+<p *ngIf="selectedJob">
+    Your favorite wonder is {{selectedJob.title}}
+  </p>
+  
+  <div class="row">
+    <div class="col-md-12" *ngFor="let job of jobs">
+      <app-job-item [job]="job"
+                     (jobSelected)="onJobSelected($event)"
+                     (jobDeleted)="jobDeleted.emit($event)"></app-job-item>
+    </div>
+  </div>
+  

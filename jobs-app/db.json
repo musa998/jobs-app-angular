@@ -1,0 +1,471 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "duncan",
+      "country": "australia",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "username": "sarah",
+      "country": "england",
+      "password": "123"
+    },
+    {
+      "username": "test2",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$mwfW9xxpVVjcdLZMKu/lju1trNOKhxy8Wl70EeuFJCO/BVJKGQ7FW",
+      "id": 6
+    },
+    {
+      "email": "m@mail.com",
+      "password": "$2a$10$a/z4R3aCZE5pmA8q16pY2ORrV9BA9Vx2vVtJpkH8H/o.0Iyox0oJC",
+      "username": "admin@admin.com",
+      "firstName": "saasd",
+      "id": 7
+    },
+    {
+      "email": "sdm@mail.com",
+      "password": "$2a$10$oEWqFBjix6u2urPF2ki8Eu55GLF16OJFuCEtMwD3poNX609wQVUXO",
+      "username": "admin@admin.com",
+      "firstName": "saasd",
+      "lastName": "asdasd",
+      "role": "",
+      "id": 8
+    },
+    {
+      "email": "asdm@mail.com",
+      "password": "$2a$10$8Asf1fNEcaYvlXJla68PCuHx8oOYEr3eDranZhAuHSYK/s4H1Nbcu",
+      "username": "admin@admin.com",
+      "firstName": "",
+      "lastName": "",
+      "role": "Organizartion",
+      "id": 9
+    },
+    {
+      "email": "adsdasfm@mail.com",
+      "password": "$2a$10$9BytGKvm0DaqXevSUPeCsOUzH8BP66za0Pz/slyKZdvfq6tZ1Fp/u",
+      "username": "admin@admin.com",
+      "role": "User",
+      "id": 10
+    },
+    {
+      "email": "sssdfsdfsdsm@mail.com",
+      "password": "$2a$10$3VLE7QbfkHV2/63FEro0deABVMjx87vzycPXVu2L5kjqwbGI0vCW2",
+      "username": "test2",
+      "role": "User",
+      "id": 12
+    },
+    {
+      "email": "sssdffdsdfsdfsdsm@mail.com",
+      "password": "$2a$10$DFGGn0u7GP84drWxDSGi3egpCXryY1mR494LVtd0qviB81tMDwbOq",
+      "username": "test2",
+      "role": "User",
+      "id": 13
+    },
+    {
+      "firstName": "wecwec",
+      "lastName": "wecwecwec",
+      "password": "$2a$10$N4GfkNN9xvCLx0wzJuFeG.LhtXwM1lLVF9lTu9yl1j4tiZi5nPQAy",
+      "email": "asd@mail.com",
+      "id": 14
+    },
+    {
+      "email": "add@mail.com",
+      "password": "$2a$10$DKCY04KuVN/hLmEyGdW57euieNgLW2DWhqtw1LeXW6XdJaVWfMI9e",
+      "username": "add",
+      "firstName": "Add",
+      "lastName": "Ddd",
+      "role": "Organizartion",
+      "id": 15
+    },
+    {
+      "email": "asfsdfsdfd@mail.com",
+      "password": "$2a$10$SIx6KNWNNd4HBQ9ILjT7BeLvK9eT0mx1dFTGjCLWmCwTBLcN4eUse",
+      "username": "fwe",
+      "firstName": "wef",
+      "lastName": "wef",
+      "role": "",
+      "id": 16
+    },
+    {
+      "email": "wef@fwef.wef",
+      "password": "$2a$10$4LY21e1WYzg5UUqRgvmI0u2wGWSAHeNk4PJ92QO7fz9ehicb8YxK.",
+      "username": "efwfef",
+      "firstName": "ад",
+      "lastName": "сдф",
+      "role": "",
+      "id": 17
+    },
+    {
+      "firstName": "htbnt",
+      "lastName": "gnhn",
+      "password": "$2a$10$d56DCMIWB8beJlIu97YIje0zxMiBmEo9YEzqnT8UGX.2/4IMDRwwq",
+      "email": "asdasdasd@nai.con",
+      "id": 18
+    },
+    {
+      "email": "assd@mail.com",
+      "password": "$2a$10$L2cYp2Peh8i2BXxjiGNkOOukLlX9NzUKhha23z87fD5N1YcXIVgSS",
+      "username": "assd@mail.com",
+      "firstName": "123456",
+      "lastName": "123456",
+      "role": "Organizartion",
+      "id": 19
+    },
+    {
+      "email": "aascwevfddsd@mail.com",
+      "password": "$2a$10$O3lTRgfWFPJdyMqaThumOuRGsRSYAJlhQNrakqPvrIchmd8VnGNxC",
+      "username": "aascwevfddsd@mail.com",
+      "firstName": "aascwevfddsd@mail.com",
+      "lastName": "aascwevfddsd@mail.com",
+      "roles": "",
+      "id": 22
+    },
+    {
+      "email": "qqwe@mail.com",
+      "password": "$2a$10$IxM4Ty8VtW3LE4R5WJUZC..q8K64Z6yr/SfrXUIz1xB9ndQX2MULC",
+      "username": "qqwe@mail.com",
+      "firstName": "qqwe@mail.com",
+      "lastName": "qqwe@mail.com",
+      "roles": "",
+      "id": 23
+    },
+    {
+      "email": "qqdwe@mail.com",
+      "password": "$2a$10$GY8qIznAAnaLmBUfeOFJJ.zRskKgIAtPLkGV6pWwyQgTP5yKgwy3O",
+      "username": "qqdwe@mail.com",
+      "firstName": "qqdwe@mail.com",
+      "lastName": "qqdwe@mail.com",
+      "roles": "",
+      "id": 24
+    },
+    {
+      "email": "aasvfddsdsd@mail.com",
+      "password": "$2a$10$PDSPKxvcyylvzw/CAAjFQurBweHF73qji40AchdIZMZfsvFs9bYUO",
+      "username": "aasvfddsdsd@mail.com",
+      "firstName": "aasvfddsdsd@mail.com",
+      "lastName": "aasvfddsdsd@mail.com",
+      "role": "",
+      "id": 25
+    },
+    {
+      "email": "qww@mail.com",
+      "password": "$2a$10$zQSTGji7ojbi9sWCXfKPbO6z26J/VfhCJlgANYqg6E4X7O29teJ32",
+      "username": "qww@mail.com",
+      "firstName": "qww@mail.com",
+      "lastName": "qww@mail.com",
+      "role": "User",
+      "id": 26
+    },
+    {
+      "email": "we@mail.com",
+      "password": "$2a$10$aL0VGTDJhoqFu.qoNEi8sOB9xVf61qrjKEARhO1..wNupDD4lPmuW",
+      "username": "we@mail.com",
+      "firstName": "we@mail.com",
+      "lastName": "",
+      "role": "",
+      "id": 27
+    },
+    {
+      "email": "csd@mail.com",
+      "password": "$2a$10$wPn3zzyVFMhKiRKzzCpdHOyVOAZECB4r8rywallLBpiBE3W4/0l..",
+      "username": "csd@mail.com",
+      "firstName": "",
+      "lastName": "",
+      "role": "",
+      "id": 28
+    },
+    {
+      "firstName": "Musa",
+      "lastName": "fd@mail.com",
+      "password": "$2a$10$.Qr7YUWaGNlgEf0NrLo8uOc1g7kpocDOGYHRPDtIQCH7w8sVJOEP.",
+      "email": "fd@mail.com",
+      "id": 29
+    },
+    {
+      "email": "fbgfd@mail.com",
+      "password": "$2a$10$TBt7VVxe/oGlik81uqh4Au8XKqh9MPqwSy31R14suF12uhiddfcR.",
+      "username": "fbgfd@mail.com",
+      "firstName": "fbgfd@mail.com",
+      "lastName": "",
+      "role": "Organizartion",
+      "id": 30
+    },
+    {
+      "email": "fasdasdd@mail.com",
+      "password": "$2a$10$XnW86OS1P/wvoz9OXPqkDean80.Po.Anj.JDpZx2v24/zOKFxkhb.",
+      "username": "fasdasdd@mail.com",
+      "firstName": "",
+      "lastName": "",
+      "role": "Organization",
+      "id": 31
+    },
+    {
+      "email": "as@mail.com",
+      "password": "$2a$10$1fY/S5/R7R7Su1KbCqjmVedNmZLH8EVeFEVelTaqmUgWCih0oatt6",
+      "username": "as@mail.com",
+      "firstName": "as@mail.com",
+      "lastName": "as@mail.com",
+      "role": "Organization",
+      "id": 32
+    },
+    {
+      "email": "vf@mail.com",
+      "password": "$2a$10$vkhEwuHu2BwXRbcO7jrypOU1mWTa8oTLUVoOBNdINqUBIAOzd6TiG",
+      "username": "vf@mail.com",
+      "firstName": "vf@mail.com",
+      "lastName": "",
+      "role": "Organization",
+      "id": 33
+    },
+    {
+      "email": "ddvf@mail.com",
+      "password": "$2a$10$ExlqoVIqDXpbcAFikEo5ueWVsVjoOvSqy93bqhao0h9VKyIC6zB9W",
+      "username": "ddvf@mail.com",
+      "firstName": "",
+      "lastName": "",
+      "role": "Organization",
+      "id": 34
+    },
+    {
+      "email": "fvd@mail.com",
+      "password": "$2a$10$dKXABtMgnm2wucV9NYuBMeASfulhQOJYrk31RwgSciNKhvkx/K.gi",
+      "username": "fvd@mail.com",
+      "firstName": "",
+      "lastName": "",
+      "role": "Organization",
+      "id": 35
+    },
+    {
+      "email": "bgfbfgb@mail.com",
+      "password": "$2a$10$sTT9Mm2Vp.bf7da86XZhOe5jANj1m8BnpwxWxkUdpBvA9cgdADDKS",
+      "username": "bgfbfgb@mail.com",
+      "firstName": "",
+      "lastName": "",
+      "role": "Organization",
+      "id": 36
+    },
+    {
+      "email": "aasdsd@mail.com",
+      "password": "$2a$10$9TlNPg23uPig.KqQV4NdyOsWOqPGPAZ9fv/2.5ZD08Ll59MK3QE8S",
+      "username": "aasdsd@mail.com",
+      "firstName": "aasdsd@mail.com",
+      "lastName": "aasdsd@mail.com",
+      "role": "Organization",
+      "id": 37
+    },
+    {
+      "email": "musa77@mail.com",
+      "password": "$2a$10$6v7AaBtdfJX6h5TKvHD1IOd13D3/vzhh4P8/z3UbxCLZu3b49q5b.",
+      "username": "Musa77",
+      "firstName": "Musa",
+      "lastName": "Yusuf",
+      "role": "User",
+      "id": 38
+    },
+    {
+      "email": "musa@mail.com",
+      "password": "$2a$10$Bbm2A8/hiL6lmdoVXfcwdutvfc0p1gEPFKD9RQVU6U0DWWWZaeQ/e",
+      "username": "musa",
+      "firstName": "musa",
+      "lastName": "yusuf",
+      "role": "User",
+      "id": 39
+    },
+    {
+      "email": "fsdfsdfsdf@mail.com",
+      "password": "$2a$10$dkyPv7VHxnuj4lLteEDRluovRIgcL7dk3bI11.64giBSMADQ.uRdO",
+      "username": "User222",
+      "firstName": "User222",
+      "lastName": "User222",
+      "role": "Organization",
+      "id": 40
+    },
+    {
+      "email": "User2223@mail.com",
+      "password": "$2a$10$947eQ9XPnrOKIFksczjjTuSPpam7Rdcb2yrjKdOZlsD5iNOTIbi9a",
+      "username": "User2223",
+      "firstName": "User2223",
+      "lastName": "User2223",
+      "role": "Organization",
+      "id": 41
+    }
+  ],
+  "posts": [
+    {
+      "id": 14,
+      "title": "ververv",
+      "content": "erverve",
+      "companyName": "erverververv",
+      "publishDate": "2020-11-26T11:29:15.728Z",
+      "likesCount": 8,
+      "applicants": [
+        null,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        39,
+        39,
+        39,
+        41,
+        41,
+        {
+          "email": "User2223@mail.com",
+          "password": "$2a$10$947eQ9XPnrOKIFksczjjTuSPpam7Rdcb2yrjKdOZlsD5iNOTIbi9a",
+          "username": "User2223",
+          "firstName": "User2223",
+          "lastName": "User2223",
+          "role": "Organization",
+          "id": 41,
+          "isAccepted": true
+        },
+        {
+          "email": "User2223@mail.com",
+          "password": "$2a$10$947eQ9XPnrOKIFksczjjTuSPpam7Rdcb2yrjKdOZlsD5iNOTIbi9a",
+          "username": "User2223",
+          "firstName": "User2223",
+          "lastName": "User2223",
+          "role": "Organization",
+          "id": 41,
+          "isAccepted": true
+        },
+        {
+          "email": "User2223@mail.com",
+          "password": "$2a$10$947eQ9XPnrOKIFksczjjTuSPpam7Rdcb2yrjKdOZlsD5iNOTIbi9a",
+          "username": "User2223",
+          "firstName": "User2223",
+          "lastName": "User2223",
+          "role": "Organization",
+          "id": 41,
+          "isAccepted": true
+        },
+        {
+          "email": "User2223@mail.com",
+          "password": "$2a$10$947eQ9XPnrOKIFksczjjTuSPpam7Rdcb2yrjKdOZlsD5iNOTIbi9a",
+          "username": "User2223",
+          "firstName": "User2223",
+          "lastName": "User2223",
+          "role": "Organization",
+          "id": 41,
+          "isAccepted": false
+        },
+        {
+          "email": "User2223@mail.com",
+          "password": "$2a$10$947eQ9XPnrOKIFksczjjTuSPpam7Rdcb2yrjKdOZlsD5iNOTIbi9a",
+          "username": "User2223",
+          "firstName": "User2223",
+          "lastName": "User2223",
+          "role": "Organization",
+          "id": 41,
+          "isAccepted": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "back-end dev",
+      "content": "BLALALALALAALALAL",
+      "companyName": "The best Software Company",
+      "publishDate": "2020-11-26T14:48:58.763Z",
+      "likesCount": 7,
+      "applicants": [
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        37,
+        39,
+        41
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Senior Front-end",
+      "content": "balbalbalbalbalablabl",
+      "companyName": "The second best company",
+      "publishDate": "2020-11-26T17:18:57.125Z",
+      "likesCount": 3,
+      "applicants": []
+    },
+    {
+      "id": 17,
+      "title": "ergerg",
+      "content": "ergerg",
+      "companyName": "ergergerg",
+      "publishDate": "2020-11-26T17:20:17.589Z",
+      "likesCount": 1,
+      "userId": 41,
+      "applicants": []
+    },
+    {
+      "id": 18,
+      "title": "gregerg",
+      "content": "ergergerg",
+      "companyName": "ergergerg",
+      "publishDate": "2020-11-26T17:28:23.498Z",
+      "likesCount": 1,
+      "companyId": 41,
+      "applicants": [
+        41
+      ]
+    },
+    {
+      "id": 19,
+      "title": "btrbrtbrtb",
+      "content": "tyntyntyntyn",
+      "companyName": "nytyntyn",
+      "publishDate": "2020-11-26T17:39:09.781Z",
+      "likesCount": 1,
+      "companyId": 41,
+      "applicants": []
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "username": "admin@admin.com",
+    "email": "asdasdm@mail.com",
+    "password": "admin",
+    "firstName": "saasd"
+  }
+}
