@@ -43,4 +43,9 @@ export class JobsService {
     const url = `${this.url}/${job.id}`;
     return this.http.put(url, job);
   }
+
+  aproveUser(userId: string, job: Job): Observable<any> {
+    const url = `${this.url}/${job.id}`;
+    return this.http.put(url, job);
+  }
 }

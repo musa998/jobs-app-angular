@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Router } from '@angular/router';
+import { Router, CanActivate } from '@angular/router';
 import { HttpClient } from '@angular/common/http';
 import { JwtHelperService } from "@auth0/angular-jwt";
 import { AccountService } from '@app/core/services/account.service';
@@ -30,4 +30,5 @@ export class AuthenticationService {
   isLoggedIn() {
     return localStorage.getItem("userId") !== null;
   }
+  
 }

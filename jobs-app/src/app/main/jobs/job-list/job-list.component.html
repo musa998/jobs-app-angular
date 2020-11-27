@@ -4,5 +4,5 @@
   <a class="btn btn-secondary m-4"  routerLink="/jobs/create">Create new</a>
 </div>
 
-<app-job-list-view [jobs]="jobs"
+<app-job-list-view [jobs]="jobs && jobs"
                     (jobDeleted)="onJobDelete($event)"></app-job-list-view>

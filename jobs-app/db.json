@@ -298,125 +298,73 @@
       "lastName": "User2223",
       "role": "Organization",
       "id": 41
+    },
+    {
+      "email": "user1111@mail.com",
+      "password": "$2a$10$4r.MSJVT9.wT5R6vAavrVOA27PL/qUYu3fuJgOq1XDxnzr8c6qBhS",
+      "username": "user1111",
+      "firstName": "User",
+      "lastName": "UserSurname",
+      "role": "User",
+      "id": 42
+    },
+    {
+      "email": "User2225@mail.com",
+      "password": "$2a$10$JOVYj2/83dHZ7sTJvehpHuZDmV7JNuVBIAO/ALhdO7zTspbJ.YkX.",
+      "username": "User2225",
+      "firstName": "Musa",
+      "lastName": "Yusuf",
+      "role": "User",
+      "id": 43
+    },
+    {
+      "email": "User222233@mail.com",
+      "password": "$2a$10$0RYSVyo1LNGWfYvJEgIH8.UiolhnZasHbibXQko8/zHgX5LtLG5q.",
+      "username": "User222233",
+      "firstName": "Musa",
+      "lastName": "Yusuf",
+      "role": "Organization",
+      "id": 45
+    },
+    {
+      "email": "User111@mail.com",
+      "password": "$2a$10$ZTh1COy7fLc3kDnJ1FYEoeKtqPD/aY17jqy53burrA3fzsjO3sV4e",
+      "username": "User111",
+      "firstName": "Musa",
+      "lastName": "Yusuf",
+      "role": "User",
+      "id": 46
     }
   ],
   "posts": [
-    {
-      "id": 14,
-      "title": "ververv",
-      "content": "erverve",
-      "companyName": "erverververv",
-      "publishDate": "2020-11-26T11:29:15.728Z",
-      "likesCount": 8,
-      "applicants": [
-        null,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        39,
-        39,
-        39,
-        41,
-        41,
-        {
-          "email": "User2223@mail.com",
-          "password": "$2a$10$947eQ9XPnrOKIFksczjjTuSPpam7Rdcb2yrjKdOZlsD5iNOTIbi9a",
-          "username": "User2223",
-          "firstName": "User2223",
-          "lastName": "User2223",
-          "role": "Organization",
-          "id": 41,
-          "isAccepted": true
-        },
-        {
-          "email": "User2223@mail.com",
-          "password": "$2a$10$947eQ9XPnrOKIFksczjjTuSPpam7Rdcb2yrjKdOZlsD5iNOTIbi9a",
-          "username": "User2223",
-          "firstName": "User2223",
-          "lastName": "User2223",
-          "role": "Organization",
-          "id": 41,
-          "isAccepted": true
-        },
-        {
-          "email": "User2223@mail.com",
-          "password": "$2a$10$947eQ9XPnrOKIFksczjjTuSPpam7Rdcb2yrjKdOZlsD5iNOTIbi9a",
-          "username": "User2223",
-          "firstName": "User2223",
-          "lastName": "User2223",
-          "role": "Organization",
-          "id": 41,
-          "isAccepted": true
-        },
-        {
-          "email": "User2223@mail.com",
-          "password": "$2a$10$947eQ9XPnrOKIFksczjjTuSPpam7Rdcb2yrjKdOZlsD5iNOTIbi9a",
-          "username": "User2223",
-          "firstName": "User2223",
-          "lastName": "User2223",
-          "role": "Organization",
-          "id": 41,
-          "isAccepted": false
-        },
-        {
-          "email": "User2223@mail.com",
-          "password": "$2a$10$947eQ9XPnrOKIFksczjjTuSPpam7Rdcb2yrjKdOZlsD5iNOTIbi9a",
-          "username": "User2223",
-          "firstName": "User2223",
-          "lastName": "User2223",
-          "role": "Organization",
-          "id": 41,
-          "isAccepted": false
-        }
-      ]
-    },
     {
       "id": 15,
       "title": "back-end dev",
       "content": "BLALALALALAALALAL",
       "companyName": "The best Software Company",
       "publishDate": "2020-11-26T14:48:58.763Z",
-      "likesCount": 7,
+      "likesCount": 9,
       "applicants": [
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        37,
-        39,
-        41
+        {
+          "email": "User111@mail.com",
+          "password": "$2a$10$ZTh1COy7fLc3kDnJ1FYEoeKtqPD/aY17jqy53burrA3fzsjO3sV4e",
+          "username": "User111",
+          "firstName": "Musa",
+          "lastName": "Yusuf",
+          "role": "User",
+          "id": 46,
+          "isAccepted": true
+        },
+        {
+          "email": "User111@mail.com",
+          "password": "$2a$10$ZTh1COy7fLc3kDnJ1FYEoeKtqPD/aY17jqy53burrA3fzsjO3sV4e",
+          "username": "User111",
+          "firstName": "Musa",
+          "lastName": "Yusuf",
+          "role": "User",
+          "id": 46,
+          "isAccepted": false
+        }
       ]
     },
     {
@@ -459,6 +407,68 @@
       "likesCount": 1,
       "companyId": 41,
       "applicants": []
+    },
+    {
+      "id": 20,
+      "title": "fwefwf",
+      "content": "wefwefwef",
+      "companyName": "wefwefwefwef",
+      "publishDate": "2020-11-27T08:02:30.270Z",
+      "likesCount": 1,
+      "companyId": 44,
+      "applicants": []
+    },
+    {
+      "id": 21,
+      "title": "My job",
+      "content": "my job content",
+      "companyName": "Software company",
+      "publishDate": "2020-11-27T08:03:00.262Z",
+      "likesCount": 1,
+      "companyId": 44,
+      "applicants": [
+        {
+          "email": "User222544@mail.com",
+          "password": "$2a$10$M1qSv8ni4G1ijJaDf7Nz1Ox.LSh3FmwRD767olbemQiwPkpufOSE2",
+          "username": "User222544",
+          "firstName": "Musa",
+          "lastName": "Yusuf",
+          "role": "Organization",
+          "id": 44,
+          "isAccepted": true
+        },
+        {
+          "email": "User222544@mail.com",
+          "password": "$2a$10$M1qSv8ni4G1ijJaDf7Nz1Ox.LSh3FmwRD767olbemQiwPkpufOSE2",
+          "username": "User222544",
+          "firstName": "Musa",
+          "lastName": "Yusuf",
+          "role": "Organization",
+          "id": 44,
+          "isAccepted": true
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "ecwecwec",
+      "content": "wecwecwec",
+      "companyName": "wecwecwe",
+      "publishDate": "2020-11-27T08:28:18.779Z",
+      "likesCount": 0,
+      "companyId": 44,
+      "applicants": [
+        {
+          "email": "User222544@mail.com",
+          "password": "$2a$10$M1qSv8ni4G1ijJaDf7Nz1Ox.LSh3FmwRD767olbemQiwPkpufOSE2",
+          "username": "User222544",
+          "firstName": "Musa",
+          "lastName": "Yusuf",
+          "role": "Organization",
+          "id": 44,
+          "isAccepted": false
+        }
+      ]
     }
   ],
   "comments": [],

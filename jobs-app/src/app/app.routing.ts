@@ -6,8 +6,12 @@ import { JobListComponent } from './main/jobs/job-list/job-list.component';
 import { JobsFormComponent } from './main/jobs/jobs-form/jobs-form.component';
 import { JobDetailsComponent } from './main/jobs/job-details/job-details.component';
 import { CompanyJobsComponent } from './main/jobs/company-jobs/company-jobs.component';
-
 import { UserProfileComponent } from './main/user-profile/user-profile.component';
+
+import { 
+  AuthGuardService as AuthGuard 
+} from '@app/auth/service/AuthGuardService';
+
 
 export const AppRoutes: Routes = [
   {
@@ -25,7 +29,8 @@ export const AppRoutes: Routes = [
   },
   {
     path: 'jobs',
-    component: JobListComponent
+    component: JobListComponent,
+    canActivate: [AuthGuard] 
   },
   {
     path: 'jobs/edit/:id',

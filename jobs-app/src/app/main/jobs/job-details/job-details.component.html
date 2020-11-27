@@ -51,7 +51,7 @@
     <div *ngIf="isOrganization" class="row">
       <h4>Applicants</h4>
       <div class="col-md-12" *ngFor="let user of job?.applicants">
-        <app-user-item [user]="user"></app-user-item>
+        <app-user-item [job]="job" [user]="user"></app-user-item>
       </div>
     </div>
   </div>

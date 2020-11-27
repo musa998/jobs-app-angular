@@ -43,6 +43,7 @@ export class JobListComponent implements OnInit {
   }
 
   get isOrganization(): boolean {
+    console.log(this.accountService.userValue);
     if(this.accountService.userValue){
       return this.accountService.isOrganization();
     }

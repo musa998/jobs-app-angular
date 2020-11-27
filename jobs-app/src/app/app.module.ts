@@ -6,6 +6,8 @@ import { AppRoutes } from './app.routing';
 import { RouterModule } from '@angular/router';
 import { HttpClientModule } from '@angular/common/http'; 
 import { AuthenticationService } from './auth/service/authentication.service';
+import { AuthGuardService } from './auth/service/AuthGuardService';
+
 // import { MDBBootstrapModule } from 'angular-bootstrap-md'; 
 
 import { JwtModule } from "@auth0/angular-jwt";
@@ -62,7 +64,7 @@ export function tokenGetter() {
       },
     }),
   ],
-  providers: [AuthenticationService],
+  providers: [AuthenticationService, AuthGuardService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
